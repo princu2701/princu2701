@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @princu2701
+- 👋 Hi, I’m Prince
+- 
 
 <!---
 princu2701/princu2701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
