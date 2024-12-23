@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1593642532973-d31b6557fa68)
+![MasterHead](https://images.unsplash.com/photo-1593642532973-d31b6557fa68?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGJhY2tncm91bmR8ZW58MHx8fHwxNjkzMTgzMzk0&ixlib=rb-4.0.3&q=80&w=1080)
 
 <h1 align="center" style="color: #f7f7f7; font-family: 'Cursive', sans-serif;">Hi 👋, I'm Prince Raj</h1>
 <h3 align="center" style="color: #bbb; font-family: 'Cursive', sans-serif;">A passionate Software Tester from India</h3>
@@ -50,4 +50,3 @@
 ### 📚 **Learning Goals:**
 - Improve knowledge of API Testing with Postman and Rest Assured.
 - Deepen expertise in Continuous Integration (CI) tools like Jenkins.
-
