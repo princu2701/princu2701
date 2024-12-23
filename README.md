@@ -35,8 +35,19 @@
     <img src="https://img.shields.io/badge/Git-%23F14E32?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+### 🚀 **Recent Projects:**
+- **Project 1:** Automated testing for [Naaptol](https://www.naaptol.com/) with Selenium and TestNG.
+- **Project 2:** Automated test scripts for login functionality using Cypress.
+
+<h3 align="left">GitHub Stats:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princu2701&show_icons=true&locale=en&layout=compact" alt="princu2701" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princu2701&show_icons=true&locale=en" alt="princu2701" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princu2701&" alt="princu2701" /></p>
+
+### 📚 **Learning Goals:**
+- Improve knowledge of API Testing with Postman and Rest Assured.
+- Deepen expertise in Continuous Integration (CI) tools like Jenkins.
+
