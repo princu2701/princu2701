@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+![MasterHead](https://images.unsplash.com/photo-1593642532973-d31b6557fa68)
 
 <h1 align="center" style="color: #f7f7f7; font-family: 'Cursive', sans-serif;">Hi 👋, I'm Prince Raj</h1>
 <h3 align="center" style="color: #bbb; font-family: 'Cursive', sans-serif;">A passionate Software Tester from India</h3>
