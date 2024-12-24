@@ -1,9 +1,9 @@
-![MasterHead](https://www.testbytes.net/wp-content/uploads/2019/06/software-testing-banner.png)
+![MasterHead](https://camo.githubusercontent.com/7c3a9f97d239a621b964330e5ea4d223e8a8b6dce79b8e8b741dcbfb2c9ad240/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f70686f746f732f736f6674776172652d74657374696e672d313638393635303735393631302e6a7067)
 
 <h1 align="center" style="font-family: 'Cursive', sans-serif;">Hi 👋, I'm Prince Raj</h1>
 <h3 align="center" style="font-family: 'Cursive', sans-serif;">A passionate Software Tester from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=princu2701&label=Profile%20views&color=0e75b6&style=flat" alt="princu2701" /> 
