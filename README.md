@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1501594907354-d7a21f29a69b)
+![MasterHead]([https://images.unsplash.com/photo-1501594907354-d7a21f29a69b](https://github.com/princu2701/princu2701/blob/main/github-header-image.png?raw=true))
 
 <h1 align="center" style="font-family: 'Cursive';">Hi 👋, I'm Prince Raj</h1>
 <h3 align="center" style="font-family: 'Cursive';">A passionate Software Tester from India</h3>
