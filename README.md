@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1593642532973-d31b6557fa68?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGJhY2tncm91bmR8ZW58MHx8fHwxNjkzMTgzMzk0&ixlib=rb-4.0.3&q=80&w=1080)
+![MasterHead](https://images.unsplash.com/photo-1593642532973-d31b6557fa68?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGJhY2tncm91bmR8ZW58MHx8fHwxNjkzMTgzMzk0&ixlib=rb-4.0.3&q=80&w=900)
 
 <h1 align="center" style="color: #f7f7f7; font-family: 'Cursive', sans-serif;">Hi 👋, I'm Prince Raj</h1>
 <h3 align="center" style="color: #bbb; font-family: 'Cursive', sans-serif;">A passionate Software Tester from India</h3>
@@ -8,15 +8,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princu2701&label=Profile%20views&color=0e75b6&style=flat" alt="princu2701" /> </p>
 
 <p align="left"> 
-    <a href="https://twitter.com/@princeraj2701" target="blank"><img src="https://img.shields.io/twitter/follow/@princeraj2701?logo=twitter&style=for-the-badge" alt="@princeraj2701" /></a> 
+    <a href="https://twitter.com/princeraj2701" target="blank"><img src="https://img.shields.io/twitter/follow/princeraj2701?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" /></a> 
 </p>
 
 - 📫 **How to reach me:** [princeraj27janu@gmail.com](mailto:princeraj27janu@gmail.com)
 
 <h3 align="left" style="color: #f7f7f7; font-family: 'Cursive', sans-serif;">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/@princeraj2701" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@princeraj2701" height="30" width="40" />
+    <a href="https://twitter.com/princeraj2701" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princeraj2701" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/prince-raj" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince raj" height="30" width="40" />
