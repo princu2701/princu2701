@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1602504530717-c971f79ee4e9)
+![MasterHead](https://images.unsplash.com/photo-1602504530717-c971f79ee4e9?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5NzN8MHx8c2VhcmNofDJ8fGRlY2t8ZW58MHx8fHwxNjg2MDk5NjEy&ixlib=rb-1.2.1&q=80&w=1080)
 
 
 <h1 align="center" style="font-family: 'Cursive';">Hi 👋, I'm Prince Raj</h1>
