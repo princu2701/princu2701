@@ -1,12 +1,12 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210172241-d35af1f3-1a6b-4d27-9797-f2bca92e5b4d.jpg)
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/e/e3/Software_testing_banner.jpg)
 
-<h1 align="center" style="font-family: 'Cursive', sans-serif;">Hi 👋, I'm Prince Raj</h1>
-<h3 align="center" style="font-family: 'Cursive', sans-serif;">A passionate Software Tester from India</h3>
+<h1 align="center" style="font-family: 'Cursive';">Hi 👋, I'm Prince Raj</h1>
+<h3 align="center" style="font-family: 'Cursive';">A passionate Software Tester from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/10498744/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=princu2701&label=Profile%20views&color=0e75b6&style=flat" alt="princu2701" /> 
+    <img src="https://komarev.com/ghpvc/?username=princu2701&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 <p align="left"> 
@@ -17,20 +17,24 @@
 
 - 📫 **How to reach me:** [princeraj27janu@gmail.com](mailto:princeraj27janu@gmail.com)
 
-<h3 align="left" style="font-family: 'Cursive', sans-serif;">Connect with me:</h3>
+---
+
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/princeraj2701" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princeraj2701" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/prince-raj" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince raj" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://fb.com/prince-raj" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince raj" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
     </a>
 </p>
 
-<h3 align="left" style="font-family: 'Cursive', sans-serif;">Technologies & Tools:</h3>
+---
+
+<h3 align="left">🛠️ Technologies & Tools:</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Selenium-%23DC9A2D?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
@@ -39,14 +43,22 @@
     <img src="https://img.shields.io/badge/Git-%23F14E32?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<h3 align="left" style="font-family: 'Cursive', sans-serif;">GitHub Stats:</h3>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princu2701&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princu2701&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=princu2701&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princu2701&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princu2701&" alt="GitHub Streak Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princu2701&" alt="GitHub Streak Stats" /></p>
+---
 
-<h3 align="left" style="font-family: 'Cursive', sans-serif;">📚 Learning Goals:</h3>
-- Enhance API Testing with Postman and Rest Assured.  
-- Deepen expertise in Continuous Integration (CI) tools like Jenkins.
+<h3 align="left">📚 Learning Goals:</h3>
+<ul>
+    <li>Enhance API Testing with Postman and Rest Assured</li>
+    <li>Deepen expertise in Continuous Integration (CI) tools like Jenkins</li>
+</ul>
