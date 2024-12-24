@@ -1,14 +1,18 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*-FnSkB8VVIk7dxXJUdKFoA.png)
+![MasterHead](https://www.testbytes.net/wp-content/uploads/2019/06/software-testing-banner.png)
 
-<h1 align="center" style="font-family: 'Cursive', sans-serif;">Hi 👋, My Name is Prince Raj</h1>
+<h1 align="center" style="font-family: 'Cursive', sans-serif;">Hi 👋, I'm Prince Raj</h1>
 <h3 align="center" style="font-family: 'Cursive', sans-serif;">A passionate Software Tester from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princu2701&label=Profile%20views&color=0e75b6&style=flat" alt="princu2701" /> </p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> 
-    <a href="https://twitter.com/princeraj2701" target="blank"><img src="https://img.shields.io/twitter/follow/princeraj2701?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" /></a> 
+    <img src="https://komarev.com/ghpvc/?username=princu2701&label=Profile%20views&color=0e75b6&style=flat" alt="princu2701" /> 
+</p>
+
+<p align="left"> 
+    <a href="https://twitter.com/princeraj2701" target="blank">
+        <img src="https://img.shields.io/twitter/follow/princeraj2701?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
+    </a> 
 </p>
 
 - 📫 **How to reach me:** [princeraj27janu@gmail.com](mailto:princeraj27janu@gmail.com)
