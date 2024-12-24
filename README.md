@@ -1,4 +1,4 @@
-![MasterHead](https://upload.wikimedia.org/wikipedia/commons/e/e3/Software_testing_banner.jpg)
+![MasterHead](https://testingxperts.com/wp-content/uploads/2019/02/QA-banner.png)
 
 <h1 align="center" style="font-family: 'Cursive';">Hi 👋, I'm Prince Raj</h1>
 <h3 align="center" style="font-family: 'Cursive';">A passionate Software Tester from India</h3>
