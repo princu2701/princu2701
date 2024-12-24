@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/princu2701/princu2701/blob/main/github-header-image.png?raw=true)
+<img src="https://github.com/princu2701/princu2701/blob/main/github-header-image.png?raw=true" alt="MasterHead" width="100%" />
 
-<h1 align="center" style="font-family: 'Cursive';">Hi 👋, I'm Prince Raj</h1>
-<h3 align="center" style="font-family: 'Cursive';">A passionate Software Tester from India</h3>
+<h1 align="center" style="font-family: 'Cursive'; font-size: 40px;">Hi 👋, I'm Prince Raj</h1>
+<h3 align="center" style="font-family: 'Cursive'; font-size: 25px;">A passionate Software Tester from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
+<h3 align="left" style="font-family: 'Cursive'; font-size: 20px;">🔗 Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/princeraj2701" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -34,7 +34,7 @@
 
 ---
 
-<h3 align="left">🛠️ Technologies & Tools:</h3>
+<h3 align="left" style="font-family: 'Cursive'; font-size: 20px;">🛠️ Technologies & Tools:</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Selenium-%23DC9A2D?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
@@ -45,7 +45,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="center" style="font-family: 'Cursive'; font-size: 20px;">📊 GitHub Stats:</h3>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=princu2701&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -56,7 +56,7 @@
 
 ---
 
-<h3 align="left">📚 Learning Goals:</h3>
+<h3 align="left" style="font-family: 'Cursive'; font-size: 20px;">📚 Learning Goals:</h3>
 <ul>
     <li>Enhance API Testing with Postman and Rest Assured</li>
     <li>Deepen expertise in Continuous Integration (CI) tools like Jenkins</li>
