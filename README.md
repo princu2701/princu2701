@@ -24,7 +24,7 @@
     <a href="https://twitter.com/princeraj2701" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/prince-raj" target="blank">
+    <a href="www.linkedin.com/in/prince-raj-a1493b228" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://fb.com/prince-raj" target="blank">
