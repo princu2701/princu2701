@@ -83,14 +83,14 @@
 
 ## 📬 Let's Connect
 
-<div align="center" style="margin-top: 30px;">
+<div align="center" style="margin: 30px 0;">
   <a href="https://twitter.com/princeraj2701" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="45"/>
   </a>
   <a href="https://www.linkedin.com/in/prince-raj-a1493b228" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="45"/>
   </a>
-  <a href="mailto:princeraj27janu@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="45"/>
   </a>
 </div>
