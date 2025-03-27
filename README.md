@@ -1,87 +1,42 @@
-<img src="https://github.com/princu2701/princu2701/blob/main/github-header-image.png?raw=true" alt="MasterHead" width="100%" />
+<!-- Dynamic Animated Header -->
+<div align="center">
+  <img src="https://github.com/princu2701/princu2701/blob/main/github-header-image.png?raw=true" alt="MasterHead" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+</div>
 
-<h1 align="center" style="font-family: 'Cursive'; font-size: 40px;">Hi 👋, I'm Prince Raj</h1>
-<h3 align="center" style="font-family: 'Cursive'; font-size: 25px;">A passionate Software Tester from India</h3>
+<!-- Title Section with Gradient Text -->
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.8rem; background: linear-gradient(45deg, #ff6b6b, #4ecdc4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0;">
+  Hi 👋, I'm Prince Raj
+</h1>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.5rem; color: #6c757d; margin-top: 0.5rem;">
+  🚀 Passionate Software Tester | 🛡️ Quality Advocate | 🇮🇳 From India
+</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- Animated Coding GIF with Floating Effect -->
+<div align="right" style="margin: 20px 0;">
+  <img alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); animation: float 6s ease-in-out infinite;">
+</div>
 
-<p align="left"> 
+<!-- Profile Views & Social Badges -->
+<div align="left" style="margin: 20px 0;">
+  <p>
     <img src="https://komarev.com/ghpvc/?username=princu2701&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
-
-<p align="left"> 
-    <a href="https://twitter.com/princeraj2701" target="blank">
-        <img src="https://img.shields.io/twitter/follow/princeraj2701?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
-    </a> 
-</p>
-
----
-
-## 👨‍💻 About Me
-🔹 Enthusiastic **Software Tester** with expertise in **Manual Testing, Selenium, Cypress, API Testing (Postman, Rest Assured), and Performance Testing (JMeter)**.  
-🔹 Passionate about **automating test cases** and ensuring high-quality software.  
-🔹 Exploring **CI/CD tools like Jenkins** to streamline the testing process.  
-🔹 Currently enhancing my knowledge in **WebdriverIO and advanced performance testing**.
-
----
-
-## 🔗 Connect with me
-<p align="left">
-    <a href="https://twitter.com/princeraj2701" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <a href="https://twitter.com/princeraj2701" target="_blank" style="margin-left: 10px;">
+      <img src="https://img.shields.io/twitter/follow/princeraj2701?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
     </a>
-    <a href="https://www.linkedin.com/in/prince-raj-a1493b228" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-</p>
+  </p>
+</div>
+
+<!-- Decorative Divider -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=4ECDC4&center=true&vCenter=true&width=435&lines=Testing+is+not+a+phase%2C+it's+a+mindset;Quality+is+never+an+accident;Every+bug+found+is+a+user+saved" alt="Typing Quotes" />
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
-<p align="left">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Selenium-%23DC9A2D?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
-    <img src="https://img.shields.io/badge/Cypress-%23303E3F?style=flat&logo=cypress&logoColor=white" alt="Cypress"/>
-    <img src="https://img.shields.io/badge/TestNG-%2300B2B8?style=flat&logo=testng&logoColor=white" alt="TestNG"/>
-    <img src="https://img.shields.io/badge/Git-%23F14E32?style=flat&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Appium-%234B4B4B?style=flat&logo=appium&logoColor=white" alt="Appium"/>
-    <img src="https://img.shields.io/badge/WebdriverIO-%23ea2d2e?style=flat&logo=webdriverio&logoColor=white" alt="WebdriverIO"/>
-    <img src="https://img.shields.io/badge/JMeter-%23D22128?style=flat&logo=apache-jmeter&logoColor=white" alt="JMeter"/>
-    <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=princu2701&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princu2701&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=princu2701&theme=radical&margin-w=15&row=1&column=6" alt="GitHub Trophy">
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=princu2701&theme=redical" alt="GitHub Activity Graph">
-</p>
-
----
-
-## 📚 Learning Goals
-<ul>
-    <li>Enhance API Testing with **Postman and Rest Assured**</li>
-    <li>Deepen expertise in **Continuous Integration (CI) tools like Jenkins**</li>
-    <li>Master **Mobile Test Automation using WebdriverIO & Appium**</li>
-    <li>Explore **Cloud Testing (BrowserStack, Sauce Labs)**</li>
-</ul>
-
----
-
-## 💡 Random Dev Quote
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</p>
+## 🌟 About Me
+```text
+🔸 Software Testing Specialist with 2+ years of experience
+🔸 Expertise in both Manual and Automation Testing
+🔸 Passionate about building robust test frameworks
+🔸 Continuous learner in emerging QA technologies
+🔸 Believer in "Test Early, Test Often" philosophy
