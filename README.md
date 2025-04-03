@@ -26,7 +26,7 @@
 
 <!-- Animated Typing Effect -->
 <div align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&lines=Turning+Requirements+into+Reliable+Software;Breaking+Code+So+Users+Don't+Have+To;Quality+Guardian+Since+Day+One" alt="Typing Quotes" style="animation: fadeIn 3s ease-in;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&lines=Turning+Requirements+into+Reliable+Software; Breaking+Code+So+Users+Don't+Have+To ;Quality+Guardian+Since+Day+One" alt="Typing Quotes" style="animation: fadeIn 3s ease-in;"/>
 </div>
 
 ---
